@@ -33,6 +33,13 @@ Bundan sonra 3. parti modüller geliyor:
 
 Bu büyük üçlü dediğim modüller neredeyse her *Artificial  Intelligence Engineer* iş ilanında geçiyor. En azından birinde ustalaşmanız çok önemli.
 
+Ve bunlarla beraber, Yaptığınız işleri/projeleri sunmak için bir github hesabı açıp AI engineering portfolio'su oluşturabilirsiniz. 
+Kaggle'da kullayı öğrenmeniz gereken güzel sitelerden birisi. içinde yarışmalar, verisetleri ve inceleyebileceğiniz jupyter notebooklar bulunuyor.
+
+Leetcode ve codewars gibi sitelerden örnek kodlama sorularını çözebilirsiniz. 
+
+(hey, bu sayfayı github pages ile yaptım hala web tasarım bilmiyorum :/)
+
 Honorable mentions: 
 - scipy
 - seaborn
